@@ -3,10 +3,12 @@ Super simple dev-environment react application to plan out a CodeMash 2019 sched
 
 Writes to a local json file served via express.  Requires Node.js.
 
-To get started:
+Installation:
 
 -npm install from root directory
 
 -npm install from root/client directory
+
+To Use:
 
 -npm start from root/client directory
