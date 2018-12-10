@@ -5,5 +5,6 @@ Writes to a local json file served via dev express server.  Requires Node.js.
 
 To get started:
 
--npm install from the root, and /client
--npm start from /client
+-npm install from the root, and /client directory
+
+-npm start from /client directory
